@@ -1,0 +1,3 @@
+@Before Advice: method:getUsers
+@AfterReturning Advice：methodName=getUsers groupId=test-group-id result=<200 OK OK,[User(name=João)],[]>
+@After Advice: getUsers
