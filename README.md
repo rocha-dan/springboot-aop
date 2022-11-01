@@ -22,6 +22,3 @@ This small project use:
 
 ## Open API's
 
-**The Open API's Docs can be accessed on the following URLs:**
-
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
