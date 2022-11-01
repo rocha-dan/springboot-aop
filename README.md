@@ -20,5 +20,3 @@ This small project use:
 - Apache Maven
 - Java 11
 
-## Open API's
-
